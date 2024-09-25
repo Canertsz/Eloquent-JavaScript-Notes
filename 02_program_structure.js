@@ -1,4 +1,4 @@
-//? Looping a triangle
+//? Exercise - Looping a triangle
 
 /*
 Write a loop that makes seven calls to console.log to 
@@ -17,7 +17,7 @@ for (let sign = "#"; sign.length < 8; sign += "#") {
   console.log(sign)
 }
 
-//? FizzBuzz
+//? Exercise - FizzBuzz
 
 /* 
 Write a program that uses console.log to print all the numbers 
@@ -43,7 +43,7 @@ for (let count = 1; count <= 100; count++) {
   }
 }
 
-//? Chessboard
+//? Exercise - Chessboard
 
 /* 
 Write a program that creates a string that represents an 8×8 grid,
